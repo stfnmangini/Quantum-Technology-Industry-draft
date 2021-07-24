@@ -4,7 +4,7 @@
 
 What you see above, is a map showing *some* of the companies around the world working on Quantum Computing, either on Hardware, Software or Algorithms.  
 
-Quantum Computing is flourishing, and I've realized that it is not possible to fit *all* quantum companies on a single map, without making it messy and incomprehensible. So, given the overwhelming response received on Twitter (and LinkedIn) for this Quantum Map (from now on called *Q-Map*), and thanks to Nathan Shammah' suggestion, I realized it would be nice to have a complete and up-to-date list of quantum companies, in a way that easily accessible for anyone. That's what this repo is for.  
+Quantum Computing is flourishing, and it is not possible to fit *all* quantum companies on a single map, without making it messy and incomprehensible. So, given the overwhelming response received on Twitter (and LinkedIn) for this Quantum Map (from now on called *Q-Map*), and thanks to Nathan Shammah' suggestion, we realized it would be nice to have a complete and up-to-date list of quantum companies, in a way that easily accessible for anyone. That's what this repo is for.  
 
 The idea is to gather all companies in a list, along with some relevant details such as their country, website and focus (hardware/software/algorithms).
 A list that anyone can modify, and keep updated.
